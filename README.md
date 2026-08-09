@@ -55,10 +55,10 @@ The dashboard can be used to identify:
 - Experience levels associated with employee attrition
 ---
 ## 📂 Project Structure
-├── README.md/
-├── PowerBI/
-├── Dataset/
-├── Dashboard
+README.md/
+PowerBI/
+Dataset/
+Dashboard
 
 ---
 ## 🚀 How to Use
