@@ -55,17 +55,10 @@ The dashboard can be used to identify:
 - Experience levels associated with employee attrition
 ---
 ## 📂 Project Structure
-HR-Analytics-PowerBI-Dashboard/
-├── README.md
-
+├── README.md/
 ├── PowerBI/
-│   └── HR_Analytics_Dashboard.pbix
-
 ├── Dataset/
-│   └── HR_Analytics_Dataset.xlsx
-
-├── Dashboard/
-│   └── HR_Analytics_Dashboard.png
+├── Dashboard
 
 ---
 ## 🚀 How to Use
