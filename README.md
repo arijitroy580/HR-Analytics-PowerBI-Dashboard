@@ -74,7 +74,7 @@ The dashboard includes KPI cards, bar charts, donut charts, tables, and trend vi
 ---
 ## 📊 Dashboard View
 
-![HR Analytics Dashboard]("HR_Analytics_Dashboard.png")
+![HR Analytics Dashboard](./HR_Analytics_Dashboard.png)
 
 ---
 
